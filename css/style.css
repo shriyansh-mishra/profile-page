@@ -75,7 +75,10 @@ a:hover{
     left: 300px;
 }
 .mountain{
-    height: 5000%;
+    height: auto;
+    width: 100%;
+    display: block;
+    margin: auto;
 }
 .code-pic{
     width: 25%;
@@ -117,6 +120,9 @@ a:hover{
     -moz-border-radius: 8;
     border-radius: 8px;
     font-family: Georgia;
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
