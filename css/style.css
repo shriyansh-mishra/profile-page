@@ -63,12 +63,19 @@ a:hover{
 }
 .top-cloud{
     position: absolute;
+    height: 20% ;
+    width: 15%;
     right: 300px;
     top: 40px;
 }
 .bottom-cloud{
     position: absolute;
+    height: 20% ;
+    width: 15%;
     left: 300px;
+}
+.mountain{
+    height: 5000%;
 }
 .code-pic{
     width: 25%;
