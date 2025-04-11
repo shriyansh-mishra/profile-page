@@ -1,1 +1,1 @@
-A simple profile website of mine getting to know about me more  
+A simple profile website about me, where people can learn more about me. 
